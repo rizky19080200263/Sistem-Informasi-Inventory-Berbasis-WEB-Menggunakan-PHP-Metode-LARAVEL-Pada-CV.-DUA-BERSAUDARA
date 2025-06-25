@@ -37,12 +37,7 @@ Untuk tampilannya saya sudah pasang template admin `bootstrap v5` yaitu `sash ad
 </p>
 
 ## *:rocket: Instalasi*
-#### :arrow_right: Clone Project / Download File
-Clone Project dengan perintah terminal `gitbash` sebagai berikut:
-```
-git clone git@github.com:radhiant/laravel-inventoryweb.git
-```
-Atau bisa klik tombol download Zip dan extrak file tersebut
+
 #### :arrow_right: Buat Database
 Buat Database `db_inventoryweb`
 #### :arrow_right: Config ENV
